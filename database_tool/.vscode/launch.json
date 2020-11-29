@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "dk.kaspersoerensen.App",
+            "projectName": "database_tool"
+        }
+    ]
+}
